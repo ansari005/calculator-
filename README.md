@@ -1,6 +1,6 @@
 # 🧮 Responsive Calculator
 
-A simple, stylish, and responsive calculator built using **HTML5**, **CSS3**, and **JavaScript**. It includes a light/dark mode toggle, clean UI, and mobile-friendly layout.
+A simple, stylish, and responsive calculator built using **HTML5**, **CSS3**. It includes a light/dark mode toggle, clean UI, and mobile-friendly layout.
 
 ## 🌟 Features
 
@@ -12,20 +12,13 @@ A simple, stylish, and responsive calculator built using **HTML5**, **CSS3**, an
 
 ## 📸 Screenshot
 
-![Responsive Calculator Screenshot](screenshot.png)
+![Responsive Calculator Screenshot](calc.png)
 
 ## 🚀 Demo
 
-[Live Demo](https://your-live-demo-link.com) <!-- Replace with your actual demo URL -->
+[Live Demo](https://ansari005.github.io/calculator-/) 
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3 (with CSS Variables for theming)
-- Vanilla JavaScript
-
-## 🔧 How to Use
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/responsive-calculator.git
