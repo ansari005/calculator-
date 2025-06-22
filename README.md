@@ -12,7 +12,7 @@ A simple, stylish, and responsive calculator built using **HTML5**, **CSS3**. It
 
 ## 📸 Screenshot
 
-![Responsive Calculator Screenshot](calc.png)
+![Responsive Calculator Screenshot](calc1.png)
 
 ## 🚀 Demo
 
